@@ -2,6 +2,10 @@
 
 **English** | [简体中文](README.zh-CN.md)
 
+<p align="center">
+  <img src="images/mlduck-concept.jpg" alt="MLDuck concept — from bipedal walking to rolling" width="800">
+</p>
+
 **Open-source SDK & hardware interface docs for the ML3576-powered biped robot duck.**
 
 [![License: Apache 2.0](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](LICENSE)
@@ -31,6 +35,36 @@
 - 🤖 Debian 11 + ROS 2 Humble onboard
 - 🔌 Documented hardware interface for secondary development
 - 🌏 Chinese & English documentation
+
+## 🦆 MLDuck Product Overview
+
+### 🚶 Core Behaviors
+
+- Walking, standing up, bending forward and other basic motions, with emotional feedback
+- Extended moves such as ball kicking and rolling
+- Advanced skills such as roller skating and carrying objects
+- Bluetooth remote control
+- Firmware OTA updates
+
+### 🧠 On-Device AI (Built-in 6 TOPS NPU)
+
+- AI pairing over Wi-Fi / Bluetooth
+- Offline voice wake-up
+- Offline voice commands
+- Autonomous cruising
+- Edge detection
+
+### ☁️ Intelbaby Robot Cloud Services
+
+- Remote video streaming
+- Remote control
+- General-purpose visual detection
+- Online voice interaction
+
+### 💾 Firmware & System
+
+- Linux + Android dual system
+- TV casting and Android entertainment apps
 
 ## 🚀 Quick Start
 

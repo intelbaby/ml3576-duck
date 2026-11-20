@@ -2,6 +2,10 @@
 
 [English](README.md) | **简体中文**
 
+<p align="center">
+  <img src="images/mlduck-concept.jpg" alt="MLDuck 概念图 —— 从双足行走到翻滚" width="800">
+</p>
+
 **基于 ML3576 的双足机器鸭 · 开源 SDK 与硬件接口文档**
 
 [![License: Apache 2.0](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](LICENSE)
@@ -30,6 +34,36 @@
 - 🤖 板载 Debian 11 + ROS 2 Humble
 - 🔌 完整硬件接口文档，支持二次开发
 - 🌏 中英文双语文档
+
+## 🦆 MLDuck 产品概览
+
+### 🚶 基础动作与交互
+
+- 走路、站起、俯身等基础动作行为与情绪反馈
+- 踢球、翻滚等扩展动作
+- 轮滑、叼东西等复杂技能
+- 蓝牙遥控
+- 固件 OTA 升级
+
+### 🧠 端侧 AI（内置 6 TOPS NPU）
+
+- Wi-Fi / 蓝牙 AI 配对
+- 离线语音唤醒
+- 离线语音指令
+- 自动巡航
+- 边缘检测
+
+### ☁️ Intelbaby 机器人云服务
+
+- 远程视频推流
+- 远程遥控
+- 泛视觉检测
+- 在线语音交互
+
+### 💾 固件与系统
+
+- Linux + Android 双系统
+- 电视投屏与 Android 娱乐应用
 
 ## 🚀 快速开始
 
