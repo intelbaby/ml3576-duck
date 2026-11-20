@@ -3,7 +3,7 @@
 [English](README.md) | **简体中文**
 
 <p align="center">
-  <img src="images/mlduck-concept.jpg" alt="MLDuck 概念图 —— 从双足行走到翻滚" width="800">
+  <img src="images/008.jpg" alt="MLDuck 双足机器鸭桌面场景" width="800">
 </p>
 
 **基于 ML3576 的双足机器鸭 · 开源 SDK 与硬件接口文档**

@@ -3,7 +3,7 @@
 **English** | [简体中文](README.zh-CN.md)
 
 <p align="center">
-  <img src="images/mlduck-concept.jpg" alt="MLDuck concept — from bipedal walking to rolling" width="800">
+  <img src="images/008.jpg" alt="MLDuck biped robot duck on a desktop" width="800">
 </p>
 
 **Open-source SDK & hardware interface docs for the ML3576-powered biped robot duck.**
