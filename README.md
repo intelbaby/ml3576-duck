@@ -56,6 +56,8 @@
 
 ### ☁️ Intelbaby Robot Cloud Services
 
+*Available in China; coming soon to other regions.*
+
 - Remote video streaming
 - Remote control
 - General-purpose visual detection
