@@ -46,7 +46,7 @@
 - Bluetooth remote control
 - Firmware OTA updates
 
-### 🧠 On-Device AI (Built-in 6 TOPS NPU)
+### 🧠 On-Device AI (6 TOPS NPU + Voice Module)
 
 - AI pairing over Wi-Fi / Bluetooth
 - Offline voice wake-up

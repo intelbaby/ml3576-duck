@@ -2,7 +2,7 @@
 
 [简体中文](voice-commands.zh-CN.md) | **English**
 
-MLDuck performs wake-word detection and voice command recognition **on-device** using the built-in 6 TOPS NPU — no network connection is required.
+MLDuck performs wake-word detection and voice command recognition **on-device** using the built-in voice module — no network connection is required.
 
 All commands listed below are active in the current firmware. Alternative phrasings for the same command are separated by `/`.
 
