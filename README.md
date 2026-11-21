@@ -69,6 +69,8 @@
 
 - Linux + Android dual system
 - TV casting and Android entertainment apps
+- Wireless display
+- HDMI 4K output
 
 ## 🚀 Quick Start
 

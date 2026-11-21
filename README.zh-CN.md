@@ -68,6 +68,8 @@
 
 - Linux + Android 双系统
 - 电视投屏与 Android 娱乐应用
+- 无线显示
+- HDMI 4K 输出
 
 ## 🚀 快速开始
 
