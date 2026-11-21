@@ -54,6 +54,8 @@
 - Autonomous cruising
 - Edge detection
 
+📖 [Full offline voice command list](docs/voice-commands.md) — 70+ built-in wake words and commands.
+
 ### ☁️ Intelbaby Robot Cloud Services
 
 *Available in China; coming soon to other regions.*
