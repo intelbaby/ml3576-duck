@@ -80,3 +80,7 @@
 # Example (will be updated upon release)
 pip install ml3576-duck-sdk
 ```
+
+---
+
+> **Note:** Different product SKUs may offer different capabilities and specifications. Please verify the SKU before purchasing and contact our distributors (to be announced). Global distribution partnerships are welcome: Mr. Jiang (jmf@intelbaby.top) · Mr. Luo (lw@intelbaby.top)

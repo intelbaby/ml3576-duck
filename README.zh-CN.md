@@ -79,3 +79,7 @@
 # 示例（发布后将更新）
 pip install ml3576-duck-sdk
 ```
+
+---
+
+> **注**：不同产品 SKU 拥有不同的能力与规格，请注意识别，并联系我们的经销商（稍后公布）。欢迎联系咨询全球分销合作：Mr. Jiang（jmf@intelbaby.top）· Mr. Luo（lw@intelbaby.top）
